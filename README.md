@@ -19,7 +19,7 @@ Welcome to my repository showcasing advanced techniques in TensorFlow. These not
 - **Description**: This project leverages advanced TensorFlow techniques to train a deep learning model aimed at predicting mental health status. It’s a personal project that applies and extends the techniques learned in the course.
 
 ### 4. Neural Rendering System for Low-Bandwidth Video Calls
-- **Files**: `nr/neural_rendering_system.ipynb`
+- **Files**: `nr/neural_rendering.ipynb`
 - **Description**: This notebook demonstrates a neural rendering system designed to significantly reduce bandwidth requirements for video calls. The system uses facial keypoint detection on cropped face images with 68 landmark points to train a deep learning model. This model can encode facial movements as lightweight neural weights, potentially reducing bandwidth requirements from 5MB/sec to just 5KB/sec.
 
 ## Acknowledgements
