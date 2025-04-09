@@ -20,7 +20,7 @@ Welcome to my repository showcasing advanced techniques in TensorFlow. These not
 
 ### 4. Neural Rendering System for Low-Bandwidth Video Calls
 - **Files**: `nr/neural_rendering.ipynb`
-- **Description**: This notebook demonstrates a neural rendering system designed to significantly reduce bandwidth requirements for video calls. The system uses facial keypoint detection on cropped face images with 68 landmark points to train a deep learning model. This model can encode facial movements as lightweight neural weights, potentially reducing bandwidth requirements from 5MB/sec to just 5KB/sec.
+- **Description**: This notebook demonstrates a neural rendering system designed to address the problem of high bandwidth requirements for video calls. The system uses facial keypoint detection on cropped face images with 68 landmark points to train a deep learning model. This model can encode facial movements as lightweight neural weights, with the intended goal of significantly reducing bandwidth requirements from 5MB/sec to just 5KB/sec.
 
 ## Acknowledgements
 These notebooks are based on tutorials from the [Deep Learning AI](https://www.deeplearning.ai/) Coursera courses. Special thanks to their team for providing the knowledge and resources to build these projects.
